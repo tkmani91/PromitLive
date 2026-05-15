@@ -1,12 +1,12 @@
 [
   {
-    "name": "Somoy TV",
-    "logo": "https://example.com/somoy.png",
-    "url": "https://শীর্ষক_লাইভ_লিঙ্ক/stream.m3u8"
+    "name": "Abp Ananda",
+    "logo": "https://i.ibb.co.com/273cjvvy/ABP-Ananda.jpg",
+    "url": "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master_1280.m3u8"
   },
   {
-    "name": "Jamuna TV",
-    "logo": "https://example.com/jamuna.png",
-    "url": "https://শীর্ষক_লাইভ_লিঙ্ক/stream2.m3u8"
+    "name": "Star Sports 1 HD",
+    "logo": "https://i.ibb.co.com/PzwXwbLY/starsports1.jpg",
+    "url": "http://premimum.online/live/jen12345/jen54321/148.ts"
   }
 ]
